@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-I'm working as a Data Analyst
+I'm working as a Machine Learning Engineer
 
 Graduate in Electronics and Communication Engineering(ECE) Stream
 
-Interested in Data science, Machine Learning and Deep Learning
+Interested in Data science, Machine Learning, Deep Learning and GenAI
 
 How to reach me: venumallidi1999@gmail.com
 
@@ -19,7 +19,7 @@ How to reach me: venumallidi1999@gmail.com
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Venusatya-Mallidi) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venusatya-mallidi-b40246181)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Venusatya-Mallidi) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venusatya-mallidi)
 
 
 ## 🛠 Skills
